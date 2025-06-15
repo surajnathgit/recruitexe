@@ -245,7 +245,7 @@ export default function RecruitexeResume() {
         {/* Resume Footer / CTA */}
         <div className="bg-gradient-to-r from-indigo-100 to-purple-100 p-5 text-center border-t border-indigo-200">
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
-            <Button
+            {/* <Button
               size="default"
               className="bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 text-white shadow-md group text-sm px-6 py-2"
             >
@@ -259,7 +259,7 @@ export default function RecruitexeResume() {
               className="border-indigo-500 text-indigo-700 hover:bg-indigo-600 hover:text-white text-sm px-6 py-2"
             >
               <Phone className="mr-1.5 w-3.5 h-3.5" />📞 Talk to Sales
-            </Button>
+            </Button> */}
           </div>
         </div>
       </motion.div>
